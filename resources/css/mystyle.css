@@ -1,0 +1,41 @@
+body {
+    font-family: Verdana, sans-serif;
+}
+
+img {
+    height: 1000px;
+    width: 1200px;
+    margin-left: 300px;
+}
+
+.bio p {
+    text-align: left;
+    font-size: 22px;
+}
+
+#container {
+    margin: 25px;
+    text-align: center;
+    padding: 10px 20px;
+}
+
+div.thumbnail {
+    width: 80%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+}
+
+div.thumbnail img {
+    width: 800px;
+    height: 400px;
+}
+
+.container p {
+    font-size: 20px;
+    color: blueviolet;
+}
+
+.container-fluid .thumbail img {
+    align-self: relative;
+}
